@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;exceptions.DomainExceptionWithdrawLimit&apos; to &apos;DomainException&apos;&#x0D;&#x0A;- Original project: &apos;CursoJAVACompleto123&apos;&#x0D;&#x0A;- Original element: &apos;exceptions.DomainExceptionWithdrawLimit&apos;&#x0D;&#x0A;- Renamed element: &apos;exceptions.DomainException&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;DomainExceptionWithdrawLimit&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;exceptions{DomainExceptionWithdrawLimit.java[DomainExceptionWithdrawLimit" matchStrategy="1" name="DomainException" qualified="false" references="true" similarDeclarations="false" stamp="1557421310369" textual="false" version="1.0"/>
+</session>

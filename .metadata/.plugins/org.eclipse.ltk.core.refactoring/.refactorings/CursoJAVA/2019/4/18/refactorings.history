@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Arroz.java&apos; to &apos;oo.polimorfismo.Arroz.java&apos;&#x0D;&#x0A;- Original project: &apos;CursoJAVA&apos;&#x0D;&#x0A;- Destination element: &apos;oo.polimorfismo.Arroz.java&apos;&#x0D;&#x0A;- Original element: &apos;oo.polimorfismo.Arroz.java&apos;" description="Copy compilation unit" destination="/src&lt;oo.polimorfismo{Arroz.java" element1="/src&lt;oo.polimorfismo{Arroz.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1556571906662" units="1" version="1.0"/>
+</session>
